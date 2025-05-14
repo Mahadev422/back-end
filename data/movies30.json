@@ -1,0 +1,2138 @@
+[
+  {
+    "_id": {
+      "$oid": "573a1390f29313caabcd5293"
+    },
+    "plot": "Young Pauline is left a lot of money when her wealthy uncle dies. However, her uncle's secretary has been named as her guardian until she marries, at which time she will officially take ...",
+    "genres": [
+      "Action"
+    ],
+    "runtime": 199,
+    "cast": [
+      "Pearl White",
+      "Crane Wilbur",
+      "Paul Panzer",
+      "Edward Josè"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzgxODk1Mzk2Ml5BMl5BanBnXkFtZTgwMDg0NzkwMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Perils of Pauline",
+    "fullplot": "Young Pauline is left a lot of money when her wealthy uncle dies. However, her uncle's secretary has been named as her guardian until she marries, at which time she will officially take possession of her inheritance. Meanwhile, her \"guardian\" and his confederates constantly come up with schemes to get rid of Pauline so that he can get his hands on the money himself.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1760227200000"
+      }
+    },
+    "directors": [
+      "Louis J. Gasnier",
+      "Donald MacKenzie"
+    ],
+    "writers": [
+      "Charles W. Goddard (screenplay)",
+      "Basil Dickey (screenplay)",
+      "Charles W. Goddard (novel)",
+      "George B. Seitz",
+      "Bertram Millhauser"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-12 00:01:18.647000000",
+    "year": 1914,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 744,
+      "id": 4465
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.8,
+        "numReviews": 9
+      },
+      "production": "Pathè Frères",
+      "lastUpdated": {
+        "$date": "2015-09-11T17:46:19.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd68d0"
+    },
+    "plot": "A penniless young man tries to save an heiress from kidnappers and help her secure her inheritance.",
+    "genres": [
+      "Comedy",
+      "Short",
+      "Action"
+    ],
+    "runtime": 22,
+    "rated": "TV-G",
+    "cast": [
+      "Harold Lloyd",
+      "Mildred Davis",
+      "'Snub' Pollard",
+      "Peggy Cartwright"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzE1OWRlNDgtMTllNi00NTZiLWIyNTktYTk0MDY1ZWUwYTc5XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "From Hand to Mouth",
+    "fullplot": "As a penniless man worries about how he will manage to eat, he is joined by a young waif and her dog, who are in the same predicament. Meanwhile, across town a dishonest lawyer is working with a gang of criminals, trying to swindle an innocent young heiress out of her inheritance. As the heiress is on her way home from the lawyer's office, she notices the young man and the waif in the midst of their latest problem with the authorities, and she rescues them. Later on, the young man will have an unexpected opportunity to repay her for her kindness.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1578268800000"
+      }
+    },
+    "directors": [
+      "Alfred J. Goulding",
+      "Hal Roach"
+    ],
+    "writers": [
+      "H.M. Walker (titles)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-04-17 00:16:14.220000000",
+    "year": 1919,
+    "imdb": {
+      "rating": 7,
+      "votes": 639,
+      "id": 10146
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 71,
+        "meter": 55
+      },
+      "production": "Pathè Exchange",
+      "lastUpdated": {
+        "$date": "2015-08-21T18:45:11.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd820b"
+    },
+    "plot": "Michael \"Beau\" Geste leaves England in disgrace and joins the infamous French Foreign Legion. He is reunited with his two brothers in North Africa, where they face greater danger from their...",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 101,
+    "cast": [
+      "Ronald Colman",
+      "Neil Hamilton",
+      "Ralph Forbes",
+      "Alice Joyce"
+    ],
+    "num_mflix_comments": 0,
+    "title": "Beau Geste",
+    "fullplot": "Michael \"Beau\" Geste leaves England in disgrace and joins the infamous French Foreign Legion. He is reunited with his two brothers in North Africa, where they face greater danger from their own sadistic commander than from the rebellious Arabs.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1368144000000"
+      }
+    },
+    "directors": [
+      "Herbert Brenon"
+    ],
+    "writers": [
+      "Herbert Brenon (adaptation)",
+      "John Russell (adaptation)",
+      "Paul Schofield",
+      "Percival Christopher Wren (novel)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-25 00:40:54.383000000",
+    "year": 1926,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 222,
+      "id": 16634
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 75,
+        "meter": 38
+      },
+      "dvd": {
+        "$date": "2000-03-28T00:00:00.000Z"
+      },
+      "lastUpdated": {
+        "$date": "2015-04-18T18:16:04.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd8268"
+    },
+    "plot": "Seeking revenge, an athletic young man joins the pirate band responsible for his father's death.",
+    "genres": [
+      "Adventure",
+      "Action"
+    ],
+    "runtime": 88,
+    "cast": [
+      "Billie Dove",
+      "Tempe Pigott",
+      "Donald Crisp",
+      "Sam De Grasse"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzU0NDkyMjEzMV5BMl5BanBnXkFtZTgwMTcyMzEyMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Black Pirate",
+    "fullplot": "A nobleman vows to avenge the death of his father at the hands of pirates. To this end he infiltrates the pirate band. Acting in character he is instrumental in the capture of a ship, but things are complicated when he finds that there is a young woman on board whom he wishes to protect from the threat of rape.",
+    "countries": [
+      "USA"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1382832000000"
+      }
+    },
+    "directors": [
+      "Albert Parker"
+    ],
+    "writers": [
+      "Douglas Fairbanks (story)",
+      "Jack Cunningham (adapted by)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-22 01:10:11.970000000",
+    "year": 1926,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 1146,
+      "id": 16654
+    },
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 1390,
+        "meter": 70
+      },
+      "dvd": {
+        "$date": "1999-10-12T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.1,
+        "numReviews": 9,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-07-22T19:23:50.000Z"
+      },
+      "rotten": 0,
+      "fresh": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd8319"
+    },
+    "plot": "An irresponsible young millionaire changes his tune when he falls for the daughter of a downtown minister.",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "runtime": 58,
+    "rated": "PASSED",
+    "cast": [
+      "Harold Lloyd",
+      "Jobyna Ralston",
+      "Noah Young",
+      "Jim Mason"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxMTEwMTIzNl5BMl5BanBnXkFtZTgwMzYzODYwMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "For Heaven's Sake",
+    "fullplot": "The Uptown Boy, J. Harold Manners (Lloyd) is a millionaire playboy who falls for the Downtown Girl, Hope (Ralston) who works in Brother Paul's (Weigel) mission. In order to build up attendance, and win Hope's attention, Harold runs through town causing trouble, and winds up with a crowd chasing him right into the mission. He eventually wins the girl and they marry, but not without some interference from his high-brow friends.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1380412800000"
+      }
+    },
+    "directors": [
+      "Sam Taylor"
+    ],
+    "writers": [
+      "Ted Wilde (story)",
+      "John Grey (story)",
+      "Clyde Bruckman (story)",
+      "Ralph Spence (titles)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-19 00:35:01.953000000",
+    "year": 1926,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 918,
+      "id": 16895
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 87,
+        "meter": 92
+      },
+      "production": "Paramount Studios",
+      "lastUpdated": {
+        "$date": "2015-07-06T18:07:59.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1391f29313caabcd93a3"
+    },
+    "plot": "Navy divers clear the torpedo tube of a sunken submarine.",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "runtime": 77,
+    "rated": "PASSED",
+    "cast": [
+      "Kenneth MacKenna",
+      "Frank Albertson",
+      "J. Farrell MacDonald",
+      "Warren Hymer"
+    ],
+    "num_mflix_comments": 1,
+    "title": "Men Without Women",
+    "fullplot": "Aboard the U.S. submarine S13 in the China seas, Chief Torpedoman Burke goes about his duties. In actuality, he is Quartermaine, the infamous former commander of the British ship Royal Scot, which was sunk by Germans with a Field Marshal aboard. Quartermaine had told his sweetheart that the Field Marshal would be aboard, not knowing that she was an informant for the enemy. When the S13 sinks, Burke takes charge when the commander, Ensign Price, is unable to command. Burke must keep his mates alive long enough on the bottom of the sea for rescuers to arrive.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1258934400000"
+      }
+    },
+    "directors": [
+      "John Ford"
+    ],
+    "writers": [
+      "John Ford (story)",
+      "James Kevin McGuinness (story)",
+      "Dudley Nichols (screen play and scenario)",
+      "Otis C. Freeman (titles)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-31 00:25:42.873000000",
+    "year": 1930,
+    "imdb": {
+      "rating": 5.8,
+      "votes": 154,
+      "id": 21140
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 84,
+        "meter": 25
+      },
+      "production": "20th Century Fox Film Corporation",
+      "lastUpdated": {
+        "$date": "2015-09-14T18:35:44.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9a10"
+    },
+    "plot": "Famous motor-racing champion Joe Greer returns to his hometown to compete in a local race. He discovers his younger brother has aspirations to become a racing champion and during the race ...",
+    "genres": [
+      "Drama",
+      "Action"
+    ],
+    "runtime": 85,
+    "cast": [
+      "James Cagney",
+      "Joan Blondell",
+      "Ann Dvorak",
+      "Eric Linden"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg0OTc2YjUtYWMzZi00YWIxLTkwMjEtODFjYjhkOGI2ZWQwXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Crowd Roars",
+    "fullplot": "Famous motor-racing champion Joe Greer returns to his hometown to compete in a local race. He discovers his younger brother has aspirations to become a racing champion and during the race Joe loses his nerve when another driver his killed, leaving his brother to win. Joe's luck takes a plunge while his brother rises to height of fame.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1190073600000"
+      }
+    },
+    "directors": [
+      "Howard Hawks"
+    ],
+    "writers": [
+      "John Bright",
+      "Niven Busch",
+      "Kubec Glasmon",
+      "Howard Hawks (story)",
+      "Seton I. Miller"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-25 00:03:34.743000000",
+    "year": 1932,
+    "imdb": {
+      "rating": 6.4,
+      "votes": 663,
+      "id": 22792
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 40,
+        "meter": 25
+      },
+      "production": "MGM",
+      "lastUpdated": {
+        "$date": "2015-06-28T19:58:39.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9ca6"
+    },
+    "plot": "An ambitious and near insanely violent gangster climbs the ladder of success in the mob, but his weaknesses prove to be his downfall.",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "runtime": 93,
+    "rated": "PASSED",
+    "cast": [
+      "Paul Muni",
+      "Ann Dvorak",
+      "Karen Morley",
+      "Osgood Perkins"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmMxZTU2ZDUtM2Y1MS00ZWFmLWJlN2UtNzI0OTJiOTYzMTk3XkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Scarface",
+    "fullplot": "Johnny Lovo rises to the head of the bootlegging crime syndicate on the south side of Chicago following the murder of former head, Big Louis Costillo. Johnny contracted Big Louis' bodyguard, Tony Camonte, to make the hit on his boss. Tony becomes Johnny's second in command. Johnny is not averse to killing anyone who gets in his and Johnny's way. As Tony is thinking bigger than Johnny and is not afraid of anyone or anything, Tony increasingly makes decisions on his own instead of following Johnny's orders, especially in not treading on the north side run by an Irish gang led by a man named O'Hara, of whom Johnny is afraid. Tony's murder spree increases, he taking out anyone who stands in his and Johnny's way of absolute control on the south side, and in Tony's view absolute control of the entire city. Tony's actions place an unspoken strain between Tony and Johnny to the point of the two knowing that they can't exist in their idealized world with the other. Tony's ultimate downfall may be one of two women in his life: Poppy, Johnny's girlfriend to who Tony is attracted; and Tony's eighteen year old sister, Cesca, who is self-professed to be older mentally than her years much to Tony's chagrin, he who will do anything to protect her innocence. Cesca ultimately comes to the realization that she is a lot more similar to her brother than she first imagined.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1190678400000"
+      }
+    },
+    "directors": [
+      "Howard Hawks",
+      "Richard Rosson"
+    ],
+    "writers": [
+      "Armitage Trail (novel)",
+      "Ben Hecht (screen story)",
+      "Seton I. Miller (continuity)",
+      "John Lee Mahin (continuity)",
+      "W.R. Burnett (continuity)",
+      "Seton I. Miller (dialogue)",
+      "John Lee Mahin (dialogue)",
+      "W.R. Burnett (dialogue)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "2 wins."
+    },
+    "lastupdated": "2015-09-03 00:32:16.227000000",
+    "year": 1932,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 18334,
+      "id": 23427
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 25579,
+        "meter": 86
+      },
+      "dvd": {
+        "$date": "2007-05-22T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.7,
+        "numReviews": 34,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-09-14T19:30:50.000Z"
+      },
+      "rotten": 0,
+      "production": "Universal Pictures",
+      "fresh": 34
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcd9cfb"
+    },
+    "plot": "A trader and his daughter set off in search of the fabled graveyard of the elephants in deepest Africa, only to encounter a wild man raised by apes.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "runtime": 100,
+    "rated": "PASSED",
+    "cast": [
+      "Johnny Weissmuller",
+      "Neil Hamilton",
+      "C. Aubrey Smith",
+      "Maureen O'Sullivan"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVlMDAwMDQtMTEzMC00YjhlLWEyYTctNjMzN2M0NGI0MTEwXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Tarzan the Ape Man",
+    "fullplot": "James Parker and Harry Holt are on an expedition in Africa in search of the elephant burial grounds that will provide enough ivory to make them rich. Parker's beautiful young daughter Jane arrives unexpectedly to join them. Harry is obviously attracted to Jane and he does his best to help protect her from all the dangers that they experience in the jungle. Jane is terrified when Tarzan and his ape friends first abduct her, but when she returns to her father's expedition she has second thoughts about leaving Tarzan. After the expedition is captured by a tribe of violent dwarfs, Jane sends Cheetah to bring Tarzan to rescue them...",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1191283200000"
+      }
+    },
+    "directors": [
+      "W.S. Van Dyke"
+    ],
+    "writers": [
+      "Edgar Rice Burroughs (based upon the characters created by)",
+      "Cyril Hume (adaptation)",
+      "Ivor Novello (dialogue)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-01 00:05:45.413000000",
+    "year": 1932,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 5182,
+      "id": 23551
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 948,
+        "meter": 69
+      },
+      "critic": {
+        "rating": 7.8,
+        "numReviews": 13,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-09-12T18:54:59.000Z"
+      },
+      "rotten": 0,
+      "production": "MGM Home Entertainment",
+      "fresh": 13
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcda755"
+    },
+    "plot": "When earthy Dolly Portland is rejected by Captain Gaskell in favor of a socialite, she aids Jamesy McCardle, in league with Malay pirates, in his plot to seize his ship.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Adventure"
+    ],
+    "runtime": 87,
+    "rated": "PASSED",
+    "cast": [
+      "Clark Gable",
+      "Jean Harlow",
+      "Wallace Beery",
+      "Lewis Stone"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDg2MzE3MV5BMl5BanBnXkFtZTgwOTM5MjIyMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "China Seas",
+    "fullplot": "Dynamic Alan Gaskell captains a ship bound from Hong Kong to Singapore. Gaskell tries to turn over a new leaf from his hard-drinking lifestyle after becoming attached to a refined high class English lady, Sybil Barclay. His former girlfriend Dolly is extremely jealous of the budding relationship and tries hard to get the Captain back. He is apparently unimpressed with her loud, obnoxious, and uncivilized manners, even though she is extremely beautiful. After a temporary take over of the ship by gold-seeking Asian pirates, Captain Gaskell must deal with the fact that Dolly and her drinking pal, Jamesey MacArdle, are implicated in the crime.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1084924800000"
+      }
+    },
+    "directors": [
+      "Tay Garnett"
+    ],
+    "writers": [
+      "Jules Furthman (screen play)",
+      "James Kevin McGuinness (screen play)",
+      "Crosbie Garstin (from the book by)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-11 00:37:56.387000000",
+    "year": 1935,
+    "imdb": {
+      "rating": 7,
+      "votes": 1518,
+      "id": 26205
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 577,
+        "meter": 73
+      },
+      "dvd": {
+        "$date": "2006-06-20T00:00:00.000Z"
+      },
+      "production": "MGM",
+      "lastUpdated": {
+        "$date": "2015-07-23T18:45:51.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcdac22"
+    },
+    "plot": "A major countermands orders and attacks to revenge a previous massacre of men, women and children.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "runtime": 115,
+    "rated": "APPROVED",
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Patric Knowles",
+      "Henry Stephenson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzYjNjZDQtMjNmZS00OGZmLTg2NzgtMjkyYTZkMmFlYTczXkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Charge of the Light Brigade",
+    "fullplot": "Major Vickers is an officer at the 27th Lancers in India 1856. When the regiment is on maneuver, the barracks are attacked by Surat Khan and his soldiers who massacre British women and children. This leaves an inextinguishable memory and Vickers promises to revenge the dead.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1047686400000"
+      }
+    },
+    "directors": [
+      "Michael Curtiz"
+    ],
+    "writers": [
+      "Alfred Lord Tennyson (poem)",
+      "Michael Jacoby (original story)",
+      "Michael Jacoby (screen play)",
+      "Rowland Leigh (screen play)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 4,
+      "text": "Won 1 Oscar. Another 3 nominations."
+    },
+    "lastupdated": "2015-08-20 00:35:09.343000000",
+    "year": 1936,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 3187,
+      "id": 27438
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 730,
+        "meter": 60
+      },
+      "dvd": {
+        "$date": "2007-03-27T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 6.8,
+        "numReviews": 6,
+        "meter": 83
+      },
+      "lastUpdated": {
+        "$date": "2015-08-23T16:21:43.000Z"
+      },
+      "rotten": 1,
+      "production": "WARNER BROTHERS PICTURES",
+      "fresh": 5
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcdacf0"
+    },
+    "plot": "Three earthlings visit the planet Mongo to thwart the evil schemes of Emperor Ming the Merciless.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "runtime": 245,
+    "rated": "APPROVED",
+    "cast": [
+      "Buster Crabbe",
+      "Jean Rogers",
+      "Charles Middleton",
+      "Priscilla Lawson"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5NDczNjM5Nl5BMl5BanBnXkFtZTgwNzMxMDM1MjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Flash Gordon",
+    "fullplot": "A rogue planet is 'rushing madly toward the earth.' Impending doom creates worldwide pandemonium. But maverick scientist Dr. Zarkov hopes to stay disaster by travelling to the new planet in his experimental rocket. Two chance-met strangers, athletic Flash Gordon and damsel in distress Dale Arden, go with him. Arrived, the trio find Mongo to be a planet of wonders, warring factions, and deadly perils, its orbit controlled by Emperor Ming who has his own sinister plans for earth. Can our heroes, armed only with science and sex appeal, stop him?",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1064707200000"
+      }
+    },
+    "directors": [
+      "Frederick Stephani",
+      "Ray Taylor"
+    ],
+    "writers": [
+      "Alex Raymond (based on the comic strip by)",
+      "Ella O'Neill (screenplay)",
+      "Frederick Stephani (screenplay)",
+      "George H. Plympton (screenplay)",
+      "Basil Dickey (screenplay)"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-09-14 12:56:01.370000000",
+    "year": 1936,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1507,
+      "id": 27623
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.4,
+        "numReviews": 129,
+        "meter": 65
+      },
+      "dvd": {
+        "$date": "2000-01-11T00:00:00.000Z"
+      },
+      "lastUpdated": {
+        "$date": "2015-09-12T17:07:34.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcdb258"
+    },
+    "plot": "A Polynesian sailor -- unjustly imprisoned after defending himself against a colonial bully -- is relentlessly persecuted by his island's martinet French governor.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "runtime": 110,
+    "rated": "PASSED",
+    "cast": [
+      "Dorothy Lamour",
+      "Jon Hall",
+      "Mary Astor",
+      "C. Aubrey Smith"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWU3Y2ExNjUtM2MyNi00MDdiLTk5ZWYtOWJkZWZlN2M2MmY2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Hurricane",
+    "fullplot": "In the Island of Manukura, a French colony in the South Seas, the joyful Terangi is a leader among the natives and the first mate of the Katopua, the tall ship of Captain Nagle. Terangi gets married with Marama and sooner he sails to Tahiti. While in a bar playing with other natives, Terangi is offended by an alcoholic racist French and he hits his face, breaking his jaw. Despite the testimony of Captain Nagle, Terangi is sentenced to six months of forced labor since the victim had political connections with the Powers That Be. Captain Nagle asks the Governor Eugene DeLaage to uses his influence to help Terangi, but the governor refuses. Terangi unsuccessfully tries to escape from the prison, and each attempt increases his sentence. Eight years later, he finally escapes and his jailbreak is celebrated in Manukura. Father Paul finds his canoe and brings Terangi to the island. But a devastating hurricane also arrives in the island threatening the dwellers.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1006128000000"
+      }
+    },
+    "directors": [
+      "John Ford",
+      "Stuart Heisler"
+    ],
+    "writers": [
+      "Dudley Nichols (screen play)",
+      "Oliver H.P. Garrett (adaptation)",
+      "Charles Nordhoff (from the novel by)",
+      "James Norman Hall (from the novel by)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Won 1 Oscar. Another 2 nominations."
+    },
+    "lastupdated": "2015-09-17 04:42:12.493000000",
+    "year": 1937,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1650,
+      "id": 29030
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 306,
+        "meter": 60
+      },
+      "dvd": {
+        "$date": "1999-01-12T00:00:00.000Z"
+      },
+      "production": "Paramount Pictures",
+      "lastUpdated": {
+        "$date": "2015-09-10T19:10:40.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcdb27d"
+    },
+    "plot": "The O'Leary brothers -- honest Jack and roguish Dion -- become powerful figures, and eventually rivals, in Chicago on the eve of its Great Fire.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Musical"
+    ],
+    "runtime": 95,
+    "rated": "APPROVED",
+    "cast": [
+      "Tyrone Power",
+      "Alice Faye",
+      "Don Ameche",
+      "Alice Brady"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjMyMTU4M2YtZWVmOS00MmYwLTljYWItN2UwMjFjNTBmZmYzXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "In Old Chicago",
+    "fullplot": "Story of the great fire of 1871. Fictional story of two sons of Mrs. O'Leary (the owner of the cow which started the fire), one a rogue (Power) the other a lawyer (Ameche). One of the most expensive films of its time ($1.8 million).",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-1000857600000"
+      }
+    },
+    "directors": [
+      "Henry King"
+    ],
+    "writers": [
+      "Lamar Trotti (screen play)",
+      "Sonya Levien (screen play)",
+      "Niven Busch (based on a story by)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 6,
+      "text": "Won 2 Oscars. Another 4 nominations."
+    },
+    "lastupdated": "2015-08-10 01:01:59.283000000",
+    "year": 1937,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 1422,
+      "id": 29047
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.4,
+        "numReviews": 1157,
+        "meter": 55
+      },
+      "dvd": {
+        "$date": "2005-08-09T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 6.3,
+        "numReviews": 9,
+        "meter": 67
+      },
+      "lastUpdated": {
+        "$date": "2015-09-10T19:10:50.000Z"
+      },
+      "rotten": 3,
+      "production": "20th Century Fox Film Corporation",
+      "fresh": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1392f29313caabcdb585"
+    },
+    "fullplot": "Sir Robin of Locksley, defender of downtrodden Saxons, runs afoul of Norman authority and is forced to turn outlaw. With his band of Merry Men, he robs from the rich, gives to the poor and still has time to woo the lovely Maid Marian, and foil the cruel Sir Guy of Gisbourne, and keep the nefarious Prince John off the throne.",
+    "imdb": {
+      "rating": 8,
+      "votes": 36789,
+      "id": 29843
+    },
+    "year": 1938,
+    "plot": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "rated": "PG",
+    "metacritic": 97,
+    "title": "The Adventures of Robin Hood",
+    "lastupdated": "2015-08-14 00:11:51.833000000",
+    "languages": [
+      "English"
+    ],
+    "writers": [
+      "Norman Reilly Raine (original screenplay: based upon ancient Robin Hood legends)",
+      "Seton I. Miller (original screenplay: based upon ancient Robin Hood legends)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 33169,
+        "meter": 89
+      },
+      "dvd": {
+        "$date": "2003-09-30T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.9,
+        "numReviews": 44,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-23T19:01:18.000Z"
+      },
+      "consensus": "Errol Flynn thrills as the legendary title character, and the film embodies the type of imaginative family adventure tailor-made for the silver screen.",
+      "rotten": 0,
+      "production": "Warner Bros.",
+      "fresh": 44
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZjOTU3MTMtYTM5YS00YjZmLThmNmMtODcwOTM1NmRiMWM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 1,
+    "released": {
+      "$date": {
+        "$numberLong": "-998352000000"
+      }
+    },
+    "awards": {
+      "wins": 5,
+      "nominations": 2,
+      "text": "Won 3 Oscars. Another 2 wins & 2 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone",
+      "Claude Rains"
+    ],
+    "directors": [
+      "Michael Curtiz",
+      "William Keighley"
+    ],
+    "runtime": 102
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdc0f7"
+    },
+    "plot": "A young aristocrat must masquerade as a fop in order to maintain his secret identity of Zorro as he restores justice to early California.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "runtime": 94,
+    "rated": "APPROVED",
+    "cast": [
+      "Tyrone Power",
+      "Linda Darnell",
+      "Basil Rathbone",
+      "Gale Sondergaard"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2ODc0NzUyMl5BMl5BanBnXkFtZTgwODQ3NTA1MjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Mark of Zorro",
+    "fullplot": "Around 1820 the son of a California nobleman comes home from Spain to find his native land under a villainous dictatorship. On the one hand he plays the useless fop, while on the other he is the masked avenger Zorro.",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-919814400000"
+      }
+    },
+    "directors": [
+      "Rouben Mamoulian"
+    ],
+    "writers": [
+      "John Taintor Foote (screenplay)",
+      "Garrett Fort (adaptation)",
+      "Bess Meredyth (adaptation)",
+      "Johnston McCulley (story)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 0,
+      "text": "Nominated for 1 Oscar. Another 1 win."
+    },
+    "lastupdated": "2015-09-04 00:07:34.773000000",
+    "year": 1940,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 7260,
+      "id": 32762
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 8601,
+        "meter": 78
+      },
+      "dvd": {
+        "$date": "2003-10-07T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 9,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-30T19:37:50.000Z"
+      },
+      "rotten": 0,
+      "production": "20th Century Fox",
+      "fresh": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdc150"
+    },
+    "plot": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He ...",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 126,
+    "rated": "PASSED",
+    "cast": [
+      "Gary Cooper",
+      "Madeleine Carroll",
+      "Paulette Goddard",
+      "Preston Foster"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTkzNjI1NTEtMTgyYS00YmY0LWI4ZjItM2E4Y2QwZmRjN2I2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "North West Mounted Police",
+    "fullplot": "Texas Ranger Dusty Rivers (\"Isn't that a contradiction in terms?\", another character asks him) travels to Canada in the 1880s in search of Jacques Corbeau, who is wanted for murder. He wanders into the midst of the Riel Rebellion, in which Mètis (people of French and Native heritage) and Natives want a separate nation. Dusty falls for nurse April Logan, who is also loved by Mountie Jim Brett. April's brother is involved with Courbeau's daughter Louvette, which leads to trouble during the battles between the rebels and the Mounties. Through it all Dusty is determined to bring Corbeau back to Texas (and April, too, if he can manage it.)",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-921283200000"
+      }
+    },
+    "directors": [
+      "Cecil B. DeMille"
+    ],
+    "writers": [
+      "Alan Le May (original screen play)",
+      "Jesse Lasky Jr. (original screen play)",
+      "C. Gardner Sullivan (original screen play)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 5,
+      "text": "Won 1 Oscar. Another 4 nominations."
+    },
+    "lastupdated": "2015-08-24 00:44:24.947000000",
+    "year": 1940,
+    "imdb": {
+      "rating": 6.7,
+      "votes": 992,
+      "id": 32850
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdc77e"
+    },
+    "plot": "Rick Leland makes no secret of the fact he has no loyalty to his home country after he is court-marshaled out of the army and boards a Japanese ship for the Orient in late 1941. But has ...",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 97,
+    "rated": "APPROVED",
+    "cast": [
+      "Humphrey Bogart",
+      "Mary Astor",
+      "Sydney Greenstreet",
+      "Charles Halton"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYwZDQ5ZmItOGIyYy00NTc0LTg2N2YtZDE5YmE2NzY3YzIxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Across the Pacific",
+    "fullplot": "Rick Leland makes no secret of the fact he has no loyalty to his home country after he is court-marshaled out of the army and boards a Japanese ship for the Orient in late 1941. But has Leland really been booted out, or is there some other motive for his getting close to fellow passenger Doctor Lorenz? Any motive for getting close to attractive traveller Alberta Marlow would however seem pretty obvious.",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-862272000000"
+      }
+    },
+    "directors": [
+      "John Huston",
+      "Vincent Sherman"
+    ],
+    "writers": [
+      "Richard Macaulay (screenplay)",
+      "Robert Carson (serial \"Aloha Means Goodbye\")"
+    ],
+    "awards": {
+      "wins": 1,
+      "nominations": 0,
+      "text": "1 win."
+    },
+    "lastupdated": "2015-08-23 00:05:01.140000000",
+    "year": 1942,
+    "imdb": {
+      "rating": 6.9,
+      "votes": 2892,
+      "id": 34428
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.3,
+        "numReviews": 1302,
+        "meter": 59
+      },
+      "dvd": {
+        "$date": "2006-10-24T00:00:00.000Z"
+      },
+      "production": "Warner Home Video",
+      "lastUpdated": {
+        "$date": "2015-08-22T19:07:50.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdc7c9"
+    },
+    "plot": "An ex-pirate contends with rowdy buccaneers and a love-hate relationship with an aristocratic woman who's tougher than she seems.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "runtime": 87,
+    "rated": "APPROVED",
+    "cast": [
+      "Tyrone Power",
+      "Maureen O'Hara",
+      "Laird Cregar",
+      "Thomas Mitchell"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1ODM0NTM2NF5BMl5BanBnXkFtZTgwMTI0MjczMjE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "The Black Swan",
+    "fullplot": "When notorious pirate Henry Morgan is made governor of Jamaica, he enlists the help of some of his former partners in ridding the Carribean of Buccaneers. When one of them apparently abducts the previous governor's pretty daughter and joins up with the rebels, things are set for a fight.",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-854496000000"
+      }
+    },
+    "directors": [
+      "Henry King"
+    ],
+    "writers": [
+      "Ben Hecht (screenplay)",
+      "Seton I. Miller (screenplay)",
+      "Seton I. Miller (adaptation)",
+      "Rafael Sabatini (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 3,
+      "text": "Won 1 Oscar. Another 2 nominations."
+    },
+    "lastupdated": "2015-08-23 01:11:57.787000000",
+    "year": 1942,
+    "imdb": {
+      "rating": 7,
+      "votes": 2779,
+      "id": 34522
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 1324,
+        "meter": 73
+      },
+      "dvd": {
+        "$date": "2006-07-11T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7,
+        "numReviews": 5,
+        "meter": 80
+      },
+      "lastUpdated": {
+        "$date": "2015-08-27T18:09:24.000Z"
+      },
+      "rotten": 1,
+      "fresh": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdc953"
+    },
+    "plot": "A boy raised by wolves tries to adapt to human village life.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Family"
+    ],
+    "runtime": 108,
+    "rated": "APPROVED",
+    "cast": [
+      "Sabu",
+      "Joseph Calleia",
+      "John Qualen",
+      "Frank Puglia"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDhhNGU3ZmYtNjlkMy00Njc1LTgyZWUtYTlmOWVjODE0NGU0L2ltYWdlXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Jungle Book",
+    "fullplot": "Teenaged Mowgli, who was raised by wolves, appears in a village in India and is adopted by Messua. Mowgli learns human language and some human ways quickly, though keeping jungle ideas. Influential Merchant Buldeo is bigoted against 'beasts' including Mowgli; not so Buldeo's pretty daughter, whom Mowgli takes on a jungle tour where they find a treasure, setting the evil of human greed in motion.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-875664000000"
+      }
+    },
+    "directors": [
+      "Zoltan Korda"
+    ],
+    "writers": [
+      "Laurence Stallings (adaptation)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 4 Oscars. Another 1 win."
+    },
+    "lastupdated": "2015-09-16 13:01:15.623000000",
+    "year": 1942,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 2569,
+      "id": 34928
+    },
+    "countries": [
+      "USA",
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 32,
+        "meter": 33
+      },
+      "dvd": {
+        "$date": "2008-02-05T00:00:00.000Z"
+      },
+      "production": "VCI",
+      "lastUpdated": {
+        "$date": "2015-08-17T18:49:25.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdca3f"
+    },
+    "plot": "When Nazi anti-aircraft fire damages a British bomber, its crew bails out and seeks help from the Dutch underground.",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "runtime": 82,
+    "cast": [
+      "Godfrey Tearle",
+      "Eric Portman",
+      "Hugh Williams",
+      "Bernard Miles"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MzZmOWMtNjNhOS00MjMzLTg4MDgtMjFhOWYzZGY5ZTAxXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY1000_SX677_AL_.jpg",
+    "title": "One of Our Aircraft Is Missing",
+    "fullplot": "During the Allied Bombing offensive of World War II the public was often informed that \"A raid took place last night over ..., One (or often more) of Our Aircraft Is Missing\". Behind these sombre words hid tales of death, destruction and derring-do. This is the story of one such bomber crew who were shot down and the brave Dutch patriots who helped them home.",
+    "languages": [
+      "English",
+      "Dutch",
+      "German",
+      "Latin",
+      "French"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-868320000000"
+      }
+    },
+    "directors": [
+      "Michael Powell",
+      "Emeric Pressburger"
+    ],
+    "writers": [
+      "Emeric Pressburger (by)",
+      "Michael Powell (written by: for The Archers)",
+      "Emeric Pressburger (written by: for The Archers)"
+    ],
+    "awards": {
+      "wins": 3,
+      "nominations": 0,
+      "text": "Nominated for 2 Oscars. Another 1 win."
+    },
+    "lastupdated": "2015-08-12 00:13:37.500000000",
+    "year": 1942,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 1247,
+      "id": 35153
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 359,
+        "meter": 62
+      },
+      "lastUpdated": {
+        "$date": "2015-07-27T18:07:39.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdcbc9"
+    },
+    "plot": "December, 1941. With no hope of relief or re-supply, a small band of United States Marines try to keep the Japanese Navy from capturing their island base.",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "runtime": 87,
+    "rated": "APPROVED",
+    "cast": [
+      "Brian Donlevy",
+      "Macdonald Carey",
+      "Robert Preston",
+      "William Bendix"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxZGJlMDYtN2M3Yy00Njc1LTg2ZmItNDhiMzg2ODY2MGM5XkEyXkFqcGdeQXVyMDMxMjQwMw@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Wake Island",
+    "fullplot": "In November 1941, Major Caton takes command of the small Marine garrison on Wake Island. His tendency toward spit and polish upsets the men's tropical lassitude, but Pearl Harbor changes everything. Soon the island is attacked and the Marines pull together day by day; but how long can they hold out?",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-864432000000"
+      }
+    },
+    "directors": [
+      "John Farrow"
+    ],
+    "writers": [
+      "W.R. Burnett (screenplay)",
+      "Frank Butler (screenplay)"
+    ],
+    "awards": {
+      "wins": 8,
+      "nominations": 0,
+      "text": "Nominated for 4 Oscars. Another 4 wins."
+    },
+    "lastupdated": "2015-08-18 00:08:42.983000000",
+    "year": 1942,
+    "imdb": {
+      "rating": 7,
+      "votes": 1263,
+      "id": 35530
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.5,
+        "numReviews": 174,
+        "meter": 61
+      },
+      "dvd": {
+        "$date": "2004-05-25T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 6,
+        "meter": 83
+      },
+      "lastUpdated": {
+        "$date": "2015-08-14T18:07:46.000Z"
+      },
+      "rotten": 1,
+      "production": "MCA Universal Home Video",
+      "fresh": 5
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcdcc03"
+    },
+    "plot": "The crew of an Air Force bomber arrives in Pearl Harbor in the aftermath of the Japanese attack and is sent on to Manila to help with the defense of the Philippines.",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "runtime": 124,
+    "rated": "APPROVED",
+    "cast": [
+      "John Ridgely",
+      "Gig Young",
+      "Arthur Kennedy",
+      "Charles Drake"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU0MDY5OWEtNmMzNC00ZTJmLWIxNmMtM2U3NWNmNTY5ODA5XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Air Force",
+    "fullplot": "On December 6, 1941 nine B-17 bomber set off on a flight from San Francisco to Hawaii. One of the bombers, the Mary Ann, is commanded by 'Irish' Quincannon. The bombardier, Tommy McMartin, has a sister living in Hawaii and the co-pilot, Bill Williams, is sweet on her. The men are all highly professional with the exception of aerial gunner Joe Winocki, a bitter man who has every intention of leaving the army air corps. They arrive at Hickam Field on the morning of December 7, just as the Japanese are attacking Pearl Harbor and other military facilities. All of the men prepare to face the enemy, including Winocki whose attitude changes quickly. The bomber and its crew will participate in many missions but not all will survive.",
+    "languages": [
+      "English",
+      "Japanese"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-845337600000"
+      }
+    },
+    "directors": [
+      "Howard Hawks"
+    ],
+    "writers": [
+      "Dudley Nichols (original screenplay)"
+    ],
+    "awards": {
+      "wins": 2,
+      "nominations": 3,
+      "text": "Won 1 Oscar. Another 1 win & 3 nominations."
+    },
+    "lastupdated": "2015-09-17 04:37:58.383000000",
+    "year": 1943,
+    "imdb": {
+      "rating": 7.1,
+      "votes": 2040,
+      "id": 35616
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.6,
+        "numReviews": 372,
+        "meter": 70
+      },
+      "dvd": {
+        "$date": "2007-06-05T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.6,
+        "numReviews": 8,
+        "meter": 88
+      },
+      "lastUpdated": {
+        "$date": "2015-09-10T18:52:13.000Z"
+      },
+      "rotten": 1,
+      "production": "WARNER BROTHERS PICTURES",
+      "fresh": 7
+    },
+    "num_mflix_comments": 0
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcddc55"
+    },
+    "fullplot": "Sir Robin of Locksley, defender of downtrodden Saxons, runs afoul of Norman authority and is forced to turn outlaw. With his band of Merry Men, he robs from the rich, gives to the poor and still has time to woo the lovely Maid Marian, and foil the cruel Sir Guy of Gisbourne, and keep the nefarious Prince John off the throne.",
+    "imdb": {
+      "rating": 8,
+      "votes": 36916,
+      "id": 29843
+    },
+    "year": 1938,
+    "plot": "When Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence, a Saxon lord fights back as the outlaw leader of a rebel guerrilla army.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "rated": "PG",
+    "metacritic": 97,
+    "title": "The Adventures of Robin Hood",
+    "lastupdated": "2015-09-07 08:33:44.247000000",
+    "languages": [
+      "English"
+    ],
+    "writers": [
+      "Norman Reilly Raine (original screenplay: based upon ancient Robin Hood legends)",
+      "Seton I. Miller (original screenplay: based upon ancient Robin Hood legends)"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 33169,
+        "meter": 89
+      },
+      "dvd": {
+        "$date": "2003-09-30T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.9,
+        "numReviews": 44,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-23T19:01:18.000Z"
+      },
+      "consensus": "Errol Flynn thrills as the legendary title character, and the film embodies the type of imaginative family adventure tailor-made for the silver screen.",
+      "rotten": 0,
+      "production": "Warner Bros.",
+      "fresh": 44
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZjOTU3MTMtYTM5YS00YjZmLThmNmMtODcwOTM1NmRiMWM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "num_mflix_comments": 1,
+    "released": {
+      "$date": {
+        "$numberLong": "-998352000000"
+      }
+    },
+    "awards": {
+      "wins": 5,
+      "nominations": 2,
+      "text": "Won 3 Oscars. Another 2 wins & 2 nominations."
+    },
+    "countries": [
+      "USA"
+    ],
+    "cast": [
+      "Errol Flynn",
+      "Olivia de Havilland",
+      "Basil Rathbone",
+      "Claude Rains"
+    ],
+    "directors": [
+      "Michael Curtiz",
+      "William Keighley"
+    ],
+    "runtime": 102
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcddff1"
+    },
+    "plot": "Dunson leads a cattle drive, the culmination of over 14 years of work, to its destination in Missouri. But his tyrannical behavior along the way causes a mutiny, led by his adopted son.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "runtime": 133,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "Montgomery Clift",
+      "Joanne Dru",
+      "Walter Brennan"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzNiOGJhMDUtZjNjMC00YmE5LTk3NjQtNGM4ZjAzOGJjZmRlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Red River",
+    "fullplot": "Fourteen years after starting his cattle ranch in Texas, Tom Dunston is finally ready to drive his 10,000 head of cattle to market. Back then Dunston, his sidekick Nadine Groot and a teen-aged boy, Matt Garth -who was the only survivor of an Indian attack on a wagon train - started off with only two head of cattle. The nearest market however is in Missouri, a 1000 miles away. Dunston is a hard task master demanding a great deal from the men who have signed up for the drive. Matt is a grown man now and fought in the Civil War. He has his own mind as well and he soon runs up against the stubborn Dunston who won't listen to advice from anyone. Soon, the men on the drive are taking sides and Matt ends up in charge with Dunston vowing to kill him.",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-671846400000"
+      }
+    },
+    "directors": [
+      "Howard Hawks",
+      "Arthur Rosson"
+    ],
+    "writers": [
+      "Borden Chase (screenplay)",
+      "Charles Schnee (screenplay)",
+      "Borden Chase (from \"The Saturday Evening Post\" story)"
+    ],
+    "awards": {
+      "wins": 4,
+      "nominations": 2,
+      "text": "Nominated for 2 Oscars. Another 2 wins & 2 nominations."
+    },
+    "lastupdated": "2015-09-16 03:41:48.620000000",
+    "year": 1948,
+    "imdb": {
+      "rating": 7.8,
+      "votes": 19788,
+      "id": 40724
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.9,
+        "numReviews": 8283,
+        "meter": 87
+      },
+      "dvd": {
+        "$date": "2001-05-15T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.8,
+        "numReviews": 24,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-21T18:19:18.000Z"
+      },
+      "rotten": 0,
+      "production": "MGM Home Entertainment",
+      "fresh": 24
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcde00c"
+    },
+    "plot": "A night club owner becomes infatuated with a torch singer and frames his best friend/manager for embezzlement when the chanteuse falls in love with him.",
+    "genres": [
+      "Action",
+      "Drama",
+      "Film-Noir"
+    ],
+    "runtime": 95,
+    "rated": "PASSED",
+    "cast": [
+      "Ida Lupino",
+      "Cornel Wilde",
+      "Celeste Holm",
+      "Richard Widmark"
+    ],
+    "num_mflix_comments": 2,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjc1ZTNkM2UtYzY3Yi00ZWZmLTljYmEtNjYxZDNmYzk2ZjkzXkEyXkFqcGdeQXVyMjUxODE0MDY@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Road House",
+    "fullplot": "Jefty, owner of a roadhouse in a backwoods town, hires sultry, tough-talking torch singer Lily Stevens against the advice of his manager Pete Morgan. Jefty is smitten with Lily, who in turn exerts her charms on the more resistant Pete. When Pete finally falls for her and she turns down Jefty's marriage proposal, they must face Jefty's murderous jealousy and his twisted plots to \"punish\" the two.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-671414400000"
+      }
+    },
+    "directors": [
+      "Jean Negulesco"
+    ],
+    "writers": [
+      "Edward Chodorov (screen play)",
+      "Margaret Gruen (story)",
+      "Oscar Saul (story)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-14 00:09:40.583000000",
+    "year": 1948,
+    "imdb": {
+      "rating": 7.3,
+      "votes": 1353,
+      "id": 40740
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.8,
+        "numReviews": 262,
+        "meter": 69
+      },
+      "dvd": {
+        "$date": "2009-05-14T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.2,
+        "numReviews": 10,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-09T19:08:16.000Z"
+      },
+      "rotten": 0,
+      "fresh": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcde061"
+    },
+    "plot": "When two US cavalrymen transporting a gold shipment get killed, US Army Intelligence investigator John Haven goes undercover to a mining and logging town to find the killers.",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Romance"
+    ],
+    "runtime": 87,
+    "rated": "PASSED",
+    "cast": [
+      "Dick Powell",
+      "Jane Greer",
+      "Agnes Moorehead",
+      "Burl Ives"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2U3YWJjOWItOWY3Yy00NTMxLTkxMGUtOTQ1MzEzODM2MjRjXkEyXkFqcGdeQXVyNTk1MTk0MDI@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Station West",
+    "fullplot": "Dick Powell stars as Haven, a government private investigator assigned to investigate the murders of two cavalrymen. Travelling incognito, Haven arrives in a small frontier outpost, where saloon singer Charlie controls all illegal activities. After making short work of Charlie's burly henchman, Haven gets a job at her gambling emporium, biding his time and gathering evidence against the gorgeous crime chieftain Cast as a philosophical bartender, Burl Ives is afforded at least one opportunity to sing.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-669340800000"
+      }
+    },
+    "directors": [
+      "Sidney Lanfield"
+    ],
+    "writers": [
+      "Frank Fenton (screenplay)",
+      "Winston Miller (screenplay)",
+      "Luke Short (novel)"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-08-24 00:20:31.667000000",
+    "year": 1948,
+    "imdb": {
+      "rating": 6.8,
+      "votes": 578,
+      "id": 40835
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3,
+        "numReviews": 3
+      },
+      "lastUpdated": {
+        "$date": "2015-06-01T18:08:19.000Z"
+      }
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcde1dd"
+    },
+    "plot": "A squad of the 101st Airborne Division copes with being trapped in the besieged city of Bastogne during the Battle of the Bulge.",
+    "genres": [
+      "Action",
+      "War",
+      "Drama"
+    ],
+    "runtime": 118,
+    "rated": "APPROVED",
+    "cast": [
+      "Van Johnson",
+      "John Hodiak",
+      "Ricardo Montalban",
+      "George Murphy"
+    ],
+    "num_mflix_comments": 1,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTYzOGIyNGQtZDljZi00NGYzLThkOTktNzNhMTM1M2Y1NDlhL2ltYWdlXkEyXkFqcGdeQXVyNDQzMDg4Nzk@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Battleground",
+    "fullplot": "We follow a band of American soldiers as they engage the Germans in a snowy, foggy winter near Bastogne in World War II. They're low on fuel, rations, and ammunition; the Germans are constantly encouraging their surrender via radio and leaflets, and most importantly, the pervasive thick fog makes movement and identification difficult and prevents their relief by Allied air support. This film focuses much more on the psychology and morale of the soldiers than on action footage and heroics.",
+    "languages": [
+      "English",
+      "French",
+      "German"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-629510400000"
+      }
+    },
+    "directors": [
+      "William A. Wellman"
+    ],
+    "writers": [
+      "Robert Pirosh (story)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 5,
+      "text": "Won 2 Oscars. Another 3 wins & 5 nominations."
+    },
+    "lastupdated": "2015-09-16 03:42:42.353000000",
+    "year": 1949,
+    "imdb": {
+      "rating": 7.6,
+      "votes": 4892,
+      "id": 41163
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 2683,
+        "meter": 82
+      },
+      "dvd": {
+        "$date": "2004-05-04T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 8.4,
+        "numReviews": 5,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-31T18:10:05.000Z"
+      },
+      "rotten": 0,
+      "production": "MGM",
+      "fresh": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1393f29313caabcde458"
+    },
+    "plot": "A dramatization of the World War II Battle of Iwo Jima.",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "runtime": 100,
+    "rated": "APPROVED",
+    "cast": [
+      "John Wayne",
+      "John Agar",
+      "Adele Mara",
+      "Forrest Tucker"
+    ],
+    "num_mflix_comments": 0,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVkZTZlZWMtOGE5Ny00YjExLTk2ZjYtNDE0NWYzNDdlOWYwXkEyXkFqcGdeQXVyNDYzNTI2ODc@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Sands of Iwo Jima",
+    "fullplot": "After his wife takes their son and leaves him, Sgt. John Stryker is an embittered man who takes his misery out on the men under his command. They're a bunch of green recruits who have a hard time dealing with Stryker's tough drills and thicker skin. Even his old friends start to wonder if he's gone from being the epitome of a tough Marine Sergeant to a man over the edge.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-626054400000"
+      }
+    },
+    "directors": [
+      "Allan Dwan"
+    ],
+    "writers": [
+      "Harry Brown (screenplay)",
+      "James Edward Grant (screenplay)",
+      "Harry Brown (story)"
+    ],
+    "awards": {
+      "wins": 5,
+      "nominations": 0,
+      "text": "Nominated for 4 Oscars. Another 1 win."
+    },
+    "lastupdated": "2015-08-18 00:18:58.517000000",
+    "year": 1949,
+    "imdb": {
+      "rating": 7.2,
+      "votes": 6929,
+      "id": 41841
+    },
+    "countries": [
+      "USA"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 3.7,
+        "numReviews": 9739,
+        "meter": 80
+      },
+      "dvd": {
+        "$date": "2001-05-22T00:00:00.000Z"
+      },
+      "critic": {
+        "rating": 7.4,
+        "numReviews": 10,
+        "meter": 100
+      },
+      "lastUpdated": {
+        "$date": "2015-08-31T19:11:35.000Z"
+      },
+      "rotten": 0,
+      "production": "Republic Pictures Home Video",
+      "fresh": 10
+    }
+  },
+  {
+    "_id": {
+      "$oid": "573a1394f29313caabcde741"
+    },
+    "plot": "A British lady entomologist travels to a Balkan country to look into germ warfare trials using various bugs as carriers.",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "runtime": 90,
+    "cast": [
+      "Margaret Lockwood",
+      "Dane Clark",
+      "Marius Goring",
+      "Naunton Wayne"
+    ],
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODYwNTYzOV5BMl5BanBnXkFtZTgwMDM2OTgwMzE@._V1_SY1000_SX677_AL_.jpg",
+    "title": "Highly Dangerous",
+    "fullplot": "When British Intelligence discovers that an Iron Curtian country is developing insects as weapons they persuade eminent entomologist Frances Gray to get into the country to collect some specimens. On arrival her cover is almost immediately blown and her contact murdered. The future looks grim for her and also perhaps for the world.",
+    "languages": [
+      "English"
+    ],
+    "released": {
+      "$date": {
+        "$numberLong": "-575078400000"
+      }
+    },
+    "directors": [
+      "Roy Ward Baker"
+    ],
+    "writers": [
+      "Eric Ambler"
+    ],
+    "awards": {
+      "wins": 0,
+      "nominations": 1,
+      "text": "1 nomination."
+    },
+    "lastupdated": "2015-09-17 04:50:07.010000000",
+    "year": 1950,
+    "imdb": {
+      "rating": 5.8,
+      "votes": 321,
+      "id": 42553
+    },
+    "countries": [
+      "UK"
+    ],
+    "type": "movie",
+    "tomatoes": {
+      "viewer": {
+        "rating": 2.9,
+        "numReviews": 24
+      },
+      "lastUpdated": {
+        "$date": "2015-05-26T18:22:40.000Z"
+      }
+    },
+    "num_mflix_comments": 0
+  }
+]

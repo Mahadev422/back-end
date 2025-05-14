@@ -1,0 +1,34 @@
+import {readFile} from 'fs/promises';
+
+export const movies = async (req, res) => {
+  try {
+    const data = await readFile('./data/movies30.json', 'utf8');
+
+    res.status(200).json(data);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send({ error: 'Unable to read the JSON file' });
+  }
+};
+
+export const languages = async (req, res) => {
+  try {
+    const data = await readFile('./data/languages.json', 'utf8');
+
+    res.status(200).json(data);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send({ error: 'Unable to read the JSON file' });
+  }
+};
+
+export const countryCode = async (req, res) => {
+  try {
+    const data = await readFile('./data/countryCode.json', 'utf8');
+
+    res.status(200).json(data);
+  } catch (error) {
+    console.error(error);
+    res.status(500).send({ error: 'Unable to read the JSON file' });
+  }
+};
