@@ -100,7 +100,7 @@ export const getFeedbacks = (req, res) => {
   fs.readFile(filePath, 'utf8', (err, data) => {
     if (err) {
       console.error('Error reading file:', err);
-      return res.status(500).json({ message: 'Error reading feedback file.' });
+      return res.status(500).json({ message: 'Error reading feedback file.', error: err.message });
     }
 
     try {
